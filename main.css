@@ -26,14 +26,14 @@
   --menu-select-color: rgba(255,255,255,0.3);
   --menu-border-color: rgba(255,255,255,0.1);
   --menu-text-color: #b2b2b2;
-  --input-color: #22222c;
+  --input-color: ##2c3031;
   --input-text-color: #ffffff;
-  --input-placeholder-color: #444;
+  --input-placeholder-color: #d4d4d4;
   --input-radius: 10px;
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
   --button-border: 1px solid #b2b2b2;
-  --button-border-hover: 1px solid #fff;
+  --button-border-hover: 1px solid #b2b2b2;
   --button-text-color: #fff;
   --button-scale: 1.05;
   --list-item-default: #212121;
